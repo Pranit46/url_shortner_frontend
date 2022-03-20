@@ -1,0 +1,9 @@
+.pass_wrapper {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.pass_wrapper a {
+    text-decoration: none;
+  }

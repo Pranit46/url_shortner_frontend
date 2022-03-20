@@ -1,0 +1,13 @@
+form {
+  width: 500px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 8%;
+}
+
+.error_message{
+   color: red;
+}
